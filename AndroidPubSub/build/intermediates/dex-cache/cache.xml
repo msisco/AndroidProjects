@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mattsisco/Class/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="e9cef7eff2fc8f7a084d2a1981e6e4eabc3e4861">
+        <dex dex="/Users/mattsisco/Class/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4fa8402865880824d95df4fcc5bddd8009ee99a3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mattsisco/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-iot/2.2.12/ee4291e7145677a52bc237f63d2d5afd51d58cea/aws-android-sdk-iot-2.2.12.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="ee4291e7145677a52bc237f63d2d5afd51d58cea">
+        <dex dex="/Users/mattsisco/Class/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-iot-2.2.12_d64e06a5e5f8e7c26ade82350d496badce3a9947/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mattsisco/Class/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="a6db7faed4aa6e848a9ac875ce29dbd613084716">
+        <dex dex="/Users/mattsisco/Class/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b2ab85dc44b840894850e26948de6c2e8184784a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mattsisco/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.2.12/9dd450c221940cbb504a9ffe0d516e5e387a5aff/aws-android-sdk-core-2.2.12.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="9dd450c221940cbb504a9ffe0d516e5e387a5aff">
+        <dex dex="/Users/mattsisco/Class/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-core-2.2.12_b0677e050b40f58959159cbd71a37c789c63ff56/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mattsisco/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.client.mqttv3/1.0.2/11752d3f24d1a9deda4533a7ca18d8496417ceeb/org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="/Users/mattsisco/Class/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/transforms/dex/debug/folders/1000/10/org.eclipse.paho.client.mqttv3-1.0.2_ce3fa72a309361531def4ab662100de23bbffd2e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/mattsisco/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/mattsisco/Class/aws-sdk-android-samples-master/AndroidPubSub/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.4_949a073317a898155f472abffef1ce57dcb8ccc4/classes.dex" />
+    </item>
+
+</items>

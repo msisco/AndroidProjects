@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/data_display_tvClientId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:paddingLeft="10dp"
+        android:paddingTop="5dp"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/data_display_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/data_display_tvClientId"
+        android:paddingLeft="10dp"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/emf_sensor_reading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="No Signal"
+        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/signal_strength"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/emf_sensor_reading"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="10dp"
+        android:text="Signal Strength"
+        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/data_display_timestamp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/emf_sensor_reading"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="10dp"
+        android:textSize="15sp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="10dp">
+
+        <Button
+            android:id="@+id/data_display_btnConnect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Connect"
+            android:textSize="25sp"/>
+
+        <Button
+            android:id="@+id/data_display_btnDisconnect"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/data_display_btnConnect"
+            android:layout_toRightOf="@+id/data_display_btnConnect"
+            android:text="Disconnect"
+            android:textSize="25sp" />
+    </LinearLayout>
+
+</RelativeLayout>
